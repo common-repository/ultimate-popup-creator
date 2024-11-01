@@ -1,0 +1,23 @@
+#wpappp-popup1, #wpappp-popup2, #wpappp-popup3, #wpappp-popup4, #wpappp-popup5, #wpappp-popup6, #wpappp-popup7, #wpappp-popup8, #wpappp-popup9, #wpappp-popup10, #wpappp-popup11, #wpappp-popup12, #wpappp-popup13, #wpappp-popup14, #wpappp-popup15, #wpappp-popup16{
+	position: fixed;
+    z-index: 99;
+    width: 100%;
+    display: inline-block;
+    top: 0;
+    background: rgba(0,0,0,0.6);
+    height: 100%;
+}
+#wpup-popup1-container, #wpup-popup2-container, #wpup-popup3-container, #wpup-popup4-container, #wpup-popup5-container, #wpup-popup6-container, #wpup-popup7-container, #wpup-popup8-container, #wpup-popup9-container, #wpup-popup10-container, #wpup-popup11-container, #wpup-popup12-container, #wpup-popup13-container, #wpup-popup14-container, #wpappp-popup15-container, #wpappp-popup16-container{
+	position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+#wpup-popup1-container{
+    background: url('../images/popup1-img/bg.png') !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: red;
+}

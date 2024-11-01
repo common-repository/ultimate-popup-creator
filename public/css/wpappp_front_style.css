@@ -1,0 +1,11 @@
+#wpappp-popup1, #wpappp-popup2, #wpappp-popup3, #wpappp-popup4, #wpappp-popup5, #wpappp-popup6, #wpappp-popup7, #wpappp-popup8, #wpappp-popup9, #wpappp-popup10, #wpappp-popup11, #wpappp-popup12, #wpappp-popup13, #wpappp-popup14, #wpappp-popup15, #wpappp-popup16{
+	position: fixed;
+    z-index: 9999;
+    width: 100%;
+    top: 0;
+    background: rgba(0,0,0,0.6) !important;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
